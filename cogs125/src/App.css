@@ -1,8 +1,8 @@
 .App {
   text-align: center;
-  background-color: #121212;
-  width: 100vw;
-  height: 100vh;
+  background-color: #2b2b2b;
+  /* width: 100vw;
+  height: 100vh; */
   /* display: flex; */
   color: white;
 }
@@ -29,7 +29,7 @@ nav h1 {
 }
 .game {
   width: 100vw;
-  height: calc(100vh - 130px);
+  height: calc(120vh - 150px);
   display: flex;
   align-items: center;
   padding-top: 50px;
@@ -37,8 +37,8 @@ nav h1 {
 }
 
 .board {
-  width: 400px;
-  height: 500px;
+  width: 350px;
+  height: 400px;
   border: 1px solid black;
   display: flex;
   flex-direction: column;

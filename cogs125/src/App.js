@@ -71,7 +71,9 @@ function App() {
     <div className="App">
       <nav>
         <h1>Wordle</h1>
+        
       </nav>
+      <p>For this project, I was inspired to do Wordle on React.</p>
       {/* <CurrTry.Provider value={currWord}>
         <Board />
       </CurrTry.Provider> */}
