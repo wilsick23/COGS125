@@ -49,13 +49,7 @@ function App() {
       currWord += board[currAttempt.attempt][i];
     }
     setCurrTry(currWord);
-
-    if (wordSet.has(currWord.toLowerCase())) {
-      setCurrAttempt({attempt: currAttempt.attempt + 1, position: 0});
-
-    } else {
-      alert("Word Not Found!")
-    }
+    setCurrAttempt({attempt: currAttempt.attempt + 1, position: 0});
 
     if (currWord === targetWord) {
       setGameOver({gameOver: true, guessedCorrect: true});
