@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.b83c85d7.css",
+    "main.js": "/react-gh-pages/static/js/main.78e14afe.js",
+    "static/js/453.6055dc26.chunk.js": "/react-gh-pages/static/js/453.6055dc26.chunk.js",
+    "static/media/word-database.txt": "/react-gh-pages/static/media/word-database.d1e180c0e95e817784be.txt",
+    "index.html": "/react-gh-pages/index.html",
+    "main.b83c85d7.css.map": "/react-gh-pages/static/css/main.b83c85d7.css.map",
+    "main.78e14afe.js.map": "/react-gh-pages/static/js/main.78e14afe.js.map",
+    "453.6055dc26.chunk.js.map": "/react-gh-pages/static/js/453.6055dc26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b83c85d7.css",
+    "static/js/main.78e14afe.js"
+  ]
+}
