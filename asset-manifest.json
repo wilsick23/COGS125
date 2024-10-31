@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/COGS125/static/css/main.b83c85d7.css",
-    "main.js": "/COGS125/static/js/main.76fc73fa.js",
+    "main.js": "/COGS125/static/js/main.7f518456.js",
     "static/js/453.c1a77216.chunk.js": "/COGS125/static/js/453.c1a77216.chunk.js",
     "static/media/word-database.txt": "/COGS125/static/media/word-database.d1e180c0e95e817784be.txt",
     "index.html": "/COGS125/index.html",
     "main.b83c85d7.css.map": "/COGS125/static/css/main.b83c85d7.css.map",
-    "main.76fc73fa.js.map": "/COGS125/static/js/main.76fc73fa.js.map",
+    "main.7f518456.js.map": "/COGS125/static/js/main.7f518456.js.map",
     "453.c1a77216.chunk.js.map": "/COGS125/static/js/453.c1a77216.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b83c85d7.css",
-    "static/js/main.76fc73fa.js"
+    "static/js/main.7f518456.js"
   ]
 }
